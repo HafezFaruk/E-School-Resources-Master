@@ -1,0 +1,74 @@
+
+.Sing{
+    width: 100px;
+    height: auto;
+    background-color: #21b573;
+    border-radius: 30px;
+    border: none;
+    padding: 5px 0;
+}
+.sky-blue{
+    background-color: #21b573;
+    border-radius: 30px;
+    border: none;
+    padding: 10px 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: lightgray;
+}
+section{
+    margin-bottom: 50px;
+}
+.red-blar{
+    color: #eb4646;
+}
+.font-size{
+    font-size: 57px;
+}
+span{
+    color: #21b573;
+}
+.head-up{
+    background-color: #f1faf7;
+    padding-bottom: 1px;
+    margin-bottom: 50px;
+}
+.book{
+    padding-top: 20px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+}
+.card:hover{
+   box-shadow: 3px 3px 5px 5px gainsboro;
+}
+.card-footer{
+    border: none;
+}
+#Books a{
+    color: #000;
+}
+.w-cd img{
+    width: 20px;
+}
+.Testimonial img{
+    margin-left: 120px;
+    margin-top: -70px;
+}
+#footer{
+    background: #000;
+    padding: 30px 0;
+    color: #ffffff;
+}
+footer{
+    color: #8d8585;
+}
+
+ul li{
+    list-style: none;
+}
