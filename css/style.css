@@ -1,17 +1,12 @@
-
-.Sing{
-    width: 100px;
-    height: auto;
-    background-color: #21b573;
-    border-radius: 30px;
-    border: none;
-    padding: 5px 0;
-}
 .sky-blue{
     background-color: #21b573;
     border-radius: 30px;
     border: none;
     padding: 10px 40px;
+}
+.Sing{
+    white-space: nowrap;
+    padding: 5px 20px;
 }
 a{
     text-decoration: none;
